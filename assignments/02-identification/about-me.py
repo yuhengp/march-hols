@@ -8,17 +8,17 @@ print("This gets printed into console")
 
 # Now we need to create some variables.
 # Create a variable called "name" and assign it your own name as a string.
-
+name = "Yuheng"
 
 # Create a variable called "age" and assign it your own age as an integer.
-
+age = 95
 
 # Create a variable called "coolness" and give it a float.
-
+coolness = 134.5
 
 # Create a variable called "likes_arnold" and give it a boolean.
 
-
+likes_arnold = False
 
 
 # Now watch the magic happen.
